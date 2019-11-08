@@ -1,11 +1,8 @@
 #include<iostream>
-#include<conio.h>
 using namespace std;
 int main()
-
 {
-    cout<<"Hello-World";
-    getch();
+    cout<<"Hello Programing World ....";
     return 0;
 }
 
